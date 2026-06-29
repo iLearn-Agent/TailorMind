@@ -3,6 +3,7 @@
   <p><strong>A behavior-to-creation framework for personalized multimodal AIGC.</strong></p>
 
   <p>
+  <img src="https://img.shields.io/badge/🎨%20Task-Personalized%20AIGC-0F9D58?style=for-the-badge&labelColor=1a1a2e" alt="task badge">
     <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+">
     <img src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
     <a href='https://arxiv.org/pdf/2606.23643'><img src='https://img.shields.io/badge/arXiv-2606.23327-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=1a1a2e' /></a>
